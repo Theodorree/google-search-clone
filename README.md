@@ -1,1 +1,1 @@
-Theodorree/google-search-clone.git
+https://theodorree.github.io/google-search-clone/
